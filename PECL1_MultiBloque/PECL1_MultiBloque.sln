@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PECL1_MultiBloque", "PECL1_MultiBloque\PECL1_MultiBloque.vcxproj", "{71DF13F4-01AF-425B-9AAC-F3CD70EECE3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DF13F4-01AF-425B-9AAC-F3CD70EECE3E}.Debug|x64.ActiveCfg = Debug|x64
+		{71DF13F4-01AF-425B-9AAC-F3CD70EECE3E}.Debug|x64.Build.0 = Debug|x64
+		{71DF13F4-01AF-425B-9AAC-F3CD70EECE3E}.Release|x64.ActiveCfg = Release|x64
+		{71DF13F4-01AF-425B-9AAC-F3CD70EECE3E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A2352D-3F7E-48ED-B569-2FAD57F53B53}
+	EndGlobalSection
+EndGlobal
